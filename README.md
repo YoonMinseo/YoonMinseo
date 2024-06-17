@@ -4,41 +4,15 @@
 **YoonMinseo/YoonMinseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-#### 🔭 현재 작업 중인 프로젝트
-- [프로젝트 1](https://github.com/YoonMinseo/프로젝트1): 프로젝트 설명
-- [프로젝트 2](https://github.com/YoonMinseo/프로젝트2): 프로젝트 설명
-
-#### 🌱 현재 학습 중인 것들
-- 기술 1
-- 기술 2
-- 기술 3
-
-#### 👯 함께 협업하고 싶은 부분
-- 협업 아이디어 1
-- 협업 아이디어 2
-
-#### 🤔 도움이 필요한 부분
-- 도움이 필요한 부분 1
-- 도움이 필요한 부분 2
-
-#### 💬 나에게 물어볼 수 있는 것들
-- 주제 1
-- 주제 2
-
-#### 📫 연락 방법
-- 이메일: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-
-#### 😄 대명사
-- 그/그녀 (He/She)
-
-#### ⚡ 재미있는 사실
-- 재미있는 사실 1
-- 재미있는 사실 2
-
-### 꾸미기 아이디어
-
-1. **프로필 배너 추가**:
-   - GitHub 프로필의 맨 위에 배너 이미지를 추가해보세요.
-   ```markdown
-   ![프로필 배너](https://link-to-your-image.com/banner.png)
+#### 기술 스택
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
