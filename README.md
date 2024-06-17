@@ -1,4 +1,4 @@
-### 미래에 꿈을 펼칠 예비 개발자입니다 👋
+###  👋
 
 <!--
 **YoonMinseo/YoonMinseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
